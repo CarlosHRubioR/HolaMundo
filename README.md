@@ -1,2 +1,3 @@
 # HolaMundo
-Explicar el uso de GitHub
+
+Realicé un cambio al archivo.
